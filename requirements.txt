@@ -1,0 +1,10 @@
+requests
+aiohttp
+beautifulsoup4
+lxml
+urllib3
+asyncio
+typing-extensions
+python-dotenv
+tqdm
+dnspython
